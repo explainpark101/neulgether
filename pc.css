@@ -1,5 +1,5 @@
 /* 적용용 CSS
-@import url("https://explainpark101.github.io/Yangether/Yangether_winter.css");
+@import url("https://explainpark101.github.io/neulgether/pc.css");
 @font-face { font-family: 'Dovemayo-Bold'; src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_four@1.0/Dovemayo-Bold.woff') format('woff'); font-weight: normal; font-style: normal; }
 */
 /* made by 박설명(explain_park) */
@@ -28,7 +28,7 @@
     */
     --background-start: #e5d34d90;
     --background-end: #ffd63770;
-    --main-logo: url(https://cdn.discordapp.com/attachments/569194281219129364/660489766130679828/logo_winter.png);
+    --main-logo: url(https://cdn.discordapp.com/attachments/569194281219129364/1140930100557254656/main-title.png);
 
     --nav-color-1: #e54dab60;
     --user-profile-border-color: #e54d5f;
