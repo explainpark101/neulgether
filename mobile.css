@@ -8,7 +8,7 @@
 :root{
     --background-start: #ccf;
     --background-end: #99f;
-    --main-logo: url(https://explainpark101.github.io/neulgether/main-title.png);
+    --main-logo: url("https://explainpark101.github.io/neulgether/main-title.png");
     --nav-color-1: #8080ff;
     --user-profile-border-color: #00ffff;
     --alert-background-color: #00d0d0;
